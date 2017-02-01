@@ -1,9 +1,19 @@
 package ca.ualberta.cs.lonelytwitter;
 
-/**
- * Created by singla1 on 1/17/17.
- */
 
+/**
+ * This class defines the happy mood of a tweet<br>
+ * <code>
+ *     begin <br>
+ *         some pseudo code<br>
+ *             end
+ * </code>
+ *@author singla1
+ * @version 1.0
+ * @see Mood
+ * @since 0.5
+ *
+ */
 public class Good extends Mood {
 
     public String currentmood() {
